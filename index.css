@@ -1,5 +1,5 @@
 .timagens{
-    height: 100px;
+    height: 200px;
     width: 200px;
 
 }.fundo{
@@ -8,4 +8,13 @@
  }
  .letras{
      color: white;
+    
  }
+  .centro{ 
+    text-align: center;
+   borde: 10px solid white; height: 10px;
+  }
+
+
+
+ 
